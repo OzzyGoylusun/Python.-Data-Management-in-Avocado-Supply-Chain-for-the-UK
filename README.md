@@ -86,7 +86,7 @@ Afterwards, I managed to write the following piece of code designed to filter av
 
 ```python
 avocado = avocado[avocado['categories_item_list'].apply(lambda passed_list_from_avocado:
-                                      any([value for value in passed_list_from_avocado if value in avocado_reference_file]))]
+                              any([value for value in passed_list_from_avocado if value in avocado_reference_file]))]
 ```
 
 ### Findings
