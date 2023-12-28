@@ -61,10 +61,32 @@ Along these lines, the analysis sought to answer the following question:
 
 ### Data Analysis
 
+While coding, what fascinated me most was to recognise that I would need to compare the category tags of our csv files for each food item to the content of the relevant tags found in txt files, resorting to a out-of-the-box technique.
 
+The following is only to demonstrate how I initially prepared our main dataset for a food item.
 
 ```python
+# To read the main dataset for avocados
 
+avocado = pd.read_csv('avocado.csv', sep='\t')
+
+avocado_relevant_cols = ['code', 'lc', 'product_name_en', 'quantity', 'serving_size', 'packaging_tags', 'brands',
+                        'brands_tags', 'categories_tags', 'labels_tags', 'countries', 'countries_tags', 'origins',
+                        'origins_tags']
+
+avocado = avocado[avocado_relevant_cols] #Subsetting technique
+
+# To read the reference category tags for avocados
+
+file = open('relevant_avocado_categories.txt', "r")
+avocado_reference_file  = file.read().splitlines() # To split a string into a list after reading
+file.close()
+```
+Afterwards, I managed to write the following piece of code designed to filter avocado data based on the reference data sourced from its txt file, applying a function to the relevant column of the main dataset of each food item and using the any() function to traverse through the reference list of category tags. 
+
+```python
+avocado = avocado[avocado['categories_item_list'].apply(lambda passed_list_from_avocado:
+                                      any([value for value in passed_list_from_avocado if value in avocado_reference_file]))]
 ```
 
 ### Findings
