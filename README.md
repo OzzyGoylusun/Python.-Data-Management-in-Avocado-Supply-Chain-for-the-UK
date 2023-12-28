@@ -106,4 +106,8 @@ Despite all the datasets sourced from the Open Food Facts Database, the accuracy
 ### References
 
 1. [DataCamp](https://www.datacamp.com/)
-2. 
+2. [Stack Overflow: Read CSV Files with a Tab Delimiter](https://stackoverflow.com/questions/21546739/load-data-from-txt-with-pandas)
+3. [GeeksforGeeks: Split Strings in Pandas](https://www.geeksforgeeks.org/python-pandas-split-strings-into-two-list-columns-using-str-split/)
+4. [FreeCodeCamp: How to Use Python's any() Function to Check for Letters in a String](https://www.freecodecamp.org/news/python-any-and-all-functions-explained-with-examples/)
+5. [Stack Overflow: Split Strings in Python Objects](https://stackoverflow.com/questions/50848764/split-string-into-two-parts-only)
+6. [GeeksforGeeks: String to Capitalize](https://www.geeksforgeeks.org/string-capitalize-python/)
