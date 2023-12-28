@@ -18,24 +18,25 @@ This data management project in **Python** is intended to conduct a supply chain
 - Avocado
 - Olive Oil
 - Sourdough
-
-
-The fundamental goal of this data management work is to communicate an in-depth understanding of the complex supply chain taking part in producing a simple and single dish.
+  
+The fundamental goal of this data management work is to highlight some aspects of the complex supply chain taking part in producing a simple and single dish.
 
 ### Data Sources
 
-Three key pairs of datasets were utilised in this project for each of the three key ingredients. If we take into account avocados for instance, 
+Three key pairs of datasets were utilised in this project for each of the three key ingredients. For instance, if we are to take into account avocados, 
 
-- avocado.csv has detailed information about *avocados*, including various nutritional information, country of origin
-- relevant_avocado_categories.csv has detailed information 
+- avocado.csv has detailed information about *the avocados*, including a variety of its products, nutritional info, country of origin and destination and so on/
+- relevant_avocado_categories.csv merely contains the category tags of interest related to *the avocados*. 
 
 
 ### Tools
 
 - [Anaconda Navigator: ](https://www.anaconda.com/download)
-  - To access the Jupyter Notebook or **Python**
+  - To access the Jupyter Notebook for **Python**
+
 
 ### Data Preparation
+
 
 
 
