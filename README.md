@@ -1,4 +1,4 @@
-# Python- Data Management in and Analysis of Avocado Supply Chain
+# Python- Data Management and Analysis in Avocado Supply Chain
 
 ## Table of Contents
 
