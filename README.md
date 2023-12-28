@@ -100,7 +100,7 @@ The most common country(s) of origin of products including any of the following 
 
 ### Limitations
 
-Albeit all the datasets sourced from the Open Food Facts Database, the accuracy of the analysis is inherently bound to the best of DataCamp's ability to have provided the data.
+Despite all the datasets sourced from the Open Food Facts Database, the accuracy of the analysis is inherently bound to the best of DataCamp's ability to have provided the data.
 
 
 ### References
