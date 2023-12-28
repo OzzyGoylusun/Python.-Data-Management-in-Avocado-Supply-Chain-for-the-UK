@@ -22,11 +22,15 @@ The fundamental goal of this data management work is to communicate an in-depth 
 
 ### Data Sources
 
+Three key pairs of datasets were utilised in this project, 
+
+- 
 
 
 ### Tools
 
-
+- [Anaconda Navigator: ](https://www.anaconda.com/download)
+  - To access the Jupyter Notebook or **Python**
 
 ### Data Preparation
 
