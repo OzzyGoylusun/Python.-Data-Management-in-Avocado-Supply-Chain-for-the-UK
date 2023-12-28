@@ -37,12 +37,19 @@ Three key pairs of datasets were utilised in this project for each of the three 
 
 ### Data Preparation
 
+The following data preparation tasks were undertaken:
 
+1. All datasets were first inspected before deciding how to load each dataset:
+  - This involved determining which **read function**, available in Pandas or in the generic Python library, would suit best and what parameters (i.e., delimiters, headers, spacing) the pre-determined functions shall have taken.
+
+2. Afterwards, seeing that the contents of all .csv files' are relatively large, a subset of columns were  pre-emptively utilised to be passed to each DataFrame to scale down the size.
+
+3. In order to answer numerious questions, a variety of data manipulation tasks also needed to be completed (e.g., splitting some category tags of a string type for each row and passing them onto another DataFrame column as a list to traverse through)
 
 
 ### Exploratory Data Analysis
 
-EDA involved exploring the Nobel Prize data to answer key questions, such as:
+As the fundamental scope of the project was 
 
 
 
