@@ -1,4 +1,4 @@
-# Python- Identifying Hidden Patterns and Visualising All Nobel Prize Winners
+# Python- Data Management in and Analysis of Avocado Supply Chain
 
 ## Table of Contents
 
@@ -7,7 +7,12 @@
 
 ### Project Overview
 ---
+THis da
 
+<p align="center">
+  <img src="https://github.com/OzzyGoylusun/Python.Data-Management-in-Avocado-Supply-Chain/blob/main/Visuals/Avocados.jpeg"
+ alt="Alfred Nobel">
+</p>
 
 ### Data Sources
 
