@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+- [Data Analysis](#data-analysis)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Findings](#findings)
 
@@ -89,7 +90,7 @@ avocado = avocado[avocado['categories_item_list'].apply(lambda passed_list_from_
                               any([value for value in passed_list_from_avocado if value in avocado_reference_file]))]
 ```
 
-### Findings
+### Recommendations
 
 The most common country(s) of origin of products including any of the following key ingredients that have thus far been imported to the United Kingdom are as follows:
 
