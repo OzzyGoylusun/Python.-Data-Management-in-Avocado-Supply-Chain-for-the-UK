@@ -7,24 +7,27 @@
 
 ### Project Overview
 ---
-This data management project in **Python** is intended to conduct a supply chain analysis of **three key ingredients** required in the making of a high-quality avocado toast, namely:
-
-- Avocado
-- Olive Oil
-- Sourdough
 
 <p align="center">
   <img src="https://github.com/OzzyGoylusun/Python.Data-Management-in-Avocado-Supply-Chain/blob/main/Visuals/Avocados.jpeg"
  alt="Alfred Nobel">
 </p>
 
+This data management project in **Python** is intended to conduct a supply chain analysis of *three key ingredients* required in the making of **a high-quality avocado toast**, namely:
+
+- Avocado
+- Olive Oil
+- Sourdough
+
+
 The fundamental goal of this data management work is to communicate an in-depth understanding of the complex supply chain taking part in producing a simple and single dish.
 
 ### Data Sources
 
-Three key pairs of datasets were utilised in this project, 
+Three key pairs of datasets were utilised in this project for each of the three key ingredients. If we take into account avocados for instance, 
 
-- 
+- avocado.csv has detailed information about *avocados*, including various nutritional information, country of origin
+- relevant_avocado_categories.csv has detailed information 
 
 
 ### Tools
