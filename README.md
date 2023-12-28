@@ -98,8 +98,9 @@ The most common country(s) of origin of products including any of the following 
   - The majority of sourdough are sourced from the homeland, **the United Kingdom**.
 
 
-
 ### Limitations
+
+Albeit all the datasets sourced from the Open Food Facts Database, the accuracy of the analysis is inherently bound to the best of DataCamp's ability to have provided the data.
 
 
 ### References
