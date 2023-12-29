@@ -82,14 +82,15 @@ avocado = avocado[avocado_relevant_cols] # Subsetting technique
 # To read the reference category tags for avocados
 
 file = open('relevant_avocado_categories.txt', "r")
-avocado_reference_file  = file.read().splitlines() # To split a string into a list after reading
+avocado_reference_file  = file.read().splitlines() # To split a string into a list
 file.close()
 ```
 Afterwards, I managed to write the following piece of code designed to filter avocado data based on the reference data sourced from its txt file, applying a function to the relevant column of the main dataset of each food item and using the any() function to traverse through the reference list of category tags:
 
 ```python
 avocado = avocado[avocado['categories_item_list'].apply(lambda passed_list_from_avocado:
-                              any([value for value in passed_list_from_avocado if value in avocado_reference_file]))]
+                              any([value for value in passed_list_from_avocado
+                              if value in avocado_reference_file]))]
 ```
 
 ### Findings
