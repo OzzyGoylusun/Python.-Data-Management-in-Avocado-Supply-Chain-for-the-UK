@@ -1,4 +1,4 @@
-# Python- Data Management and Analysis in Avocado Supply Chain for the UK
+# Data Management and Analysis in Avocado Supply Chain for the UK
 
 ## Table of Contents
 
