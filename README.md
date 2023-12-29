@@ -52,7 +52,7 @@ The following data preparation tasks were undertaken:
 
 As the fundamental scope of the project was to zero in on the data management side on the avocado supply chain, limited exploratory data analysis work went into the equation.
 
-Along these lines, the analysis sought to answer the following question:
+Nevertheless, the analysis sought to answer the following question:
 
 - What are the most common country(s) of origin for?
   - Avocado
