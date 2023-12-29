@@ -97,7 +97,7 @@ avocado = avocado[avocado['categories_item_list'].apply(lambda passed_list_from_
 
 The most common country(s) of origin for the following key ingredients are as follows:
 
-  - The majority of avocado for the UK are sourced from **Peru**.
+  - The majority of avocados for the UK are sourced from **Peru**.
   - The majority of olive oil for the UK is sourced from **Greece**.
   - The majority of sourdough for the UK is sourced from the homeland, **the United Kingdom**.
 
