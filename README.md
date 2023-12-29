@@ -62,7 +62,7 @@ Nevertheless, the analysis sought to answer the following question:
 
 ### Data Analysis
 
-While coding, what fascinated me most was to recognise that I would need to compare the category tags of our csv files for each food item to the content of the relevant tags found in txt files, resorting to a out-of-the-box technique.
+While coding, what fascinated me most was to recognise that I would need to compare the category tags found in our csv files for each food item to the content of the relevant tags found in txt files, resorting to a out-of-the-box technique.
 
 The following is only to demonstrate how I initially prepared my key pair of datasets for avocados:
 
