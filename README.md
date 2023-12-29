@@ -24,7 +24,7 @@ The fundamental goal of this type of a data management work is to highlight some
 
 ### Data Sources
 
-Three key pairs of datasets were utilised in this project for each of the three key ingredients at hand. For instance, if we are to take into account avocados, 
+Three key pairs of datasets were utilised in this project for each of the three key ingredients at hand. For instance, if we are to take into account avocados:
 
 - avocado.csv has detailed information about *the avocados*, including a variety of its products, nutritional info, country of origin and destination and so on/
 - relevant_avocado_categories.csv merely contains the category tags of interest related to *the avocados*. 
