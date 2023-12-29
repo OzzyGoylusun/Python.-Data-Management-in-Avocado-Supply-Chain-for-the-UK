@@ -90,7 +90,7 @@ avocado = avocado[avocado['categories_item_list'].apply(lambda passed_list_from_
                               any([value for value in passed_list_from_avocado if value in avocado_reference_file]))]
 ```
 
-### Recommendations
+### Findings
 
 The most common country(s) of origin of products including any of the following key ingredients that have thus far been imported to the United Kingdom are as follows:
 
@@ -98,7 +98,7 @@ The most common country(s) of origin of products including any of the following 
   - The majority of olive oil are sourced from **Greece**.
   - The majority of sourdough are sourced from the homeland, **the United Kingdom**.
 
-### Findings
+### Recommendations
 
 As this was a data management project designed to extract a few insights, no recommendations were proposed within the scope of the work.
 
