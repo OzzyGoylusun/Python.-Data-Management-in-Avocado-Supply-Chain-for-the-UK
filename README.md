@@ -67,15 +67,17 @@ While coding, what fascinated me most was to recognise that I would need to comp
 The following is only to demonstrate how I initially prepared my key pair of datasets for avocados:
 
 ```python
-# To read the main dataset for avocados
+# To read and subset the main dataset for avocados
 
 avocado = pd.read_csv('avocado.csv', sep='\t')
 
-avocado_relevant_cols = ['code', 'lc', 'product_name_en', 'quantity', 'serving_size', 'packaging_tags', 'brands',
-                        'brands_tags', 'categories_tags', 'labels_tags', 'countries', 'countries_tags', 'origins',
-                        'origins_tags']
+avocado_relevant_cols = ['code', 'lc', 'product_name_en', 'quantity', 'serving_size',
+                         'packaging_tags', 'brands', 'brands_tags', 'categories_tags',
+                         'labels_tags', 'countries', 'countries_tags', 'origins',
+                         'origins_tags']
 
-avocado = avocado[avocado_relevant_cols] #Subsetting technique
+avocado = avocado[avocado_relevant_cols] # Subsetting technique
+
 
 # To read the reference category tags for avocados
 
