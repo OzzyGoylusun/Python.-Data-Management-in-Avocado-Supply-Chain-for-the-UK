@@ -45,7 +45,7 @@ The following data preparation tasks were undertaken:
 
 2. Afterwards, seeing that the contents of all .csv files' are relatively large, a subset of columns were  pre-emptively utilised to be passed to each DataFrame to scale down the size.
 
-3. In order to answer numerious questions, a variety of data manipulation tasks also needed to be completed (e.g., splitting some category tags of a string type for each row and passing them onto another DataFrame column as a list to traverse through)
+3. In order to answer numerous questions, a variety of data manipulation tasks also needed to be completed (e.g., splitting some category tags of a string type for each row and passing them onto another DataFrame column as a list to traverse through)
 
 
 ### Exploratory Data Analysis
