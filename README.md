@@ -41,7 +41,7 @@ Three key pairs of datasets were utilised in this project for each of the three 
 The following data preparation tasks were undertaken:
 
 1. All datasets were first inspected before deciding how to load each dataset (i.e., into a DataFrame, a NumPy array or a simple Python list:
-  - This involved determining which **read function**, available in Pandas or in the generic Python library, would suit best and what parameters (i.e., delimiters, headers, spacing) the pre-determined functions shall have taken.
+  - This involved determining which **read function**, available in Pandas or in the generic Python library, would suit best and what parameters (i.e., delimiters, headers, spacing) the would-be functions shall have taken.
 
 2. Afterwards, seeing that the contents of all .csv files' are relatively large, a subset of columns were  pre-emptively utilised to be passed to each DataFrame to scale down the size.
 
