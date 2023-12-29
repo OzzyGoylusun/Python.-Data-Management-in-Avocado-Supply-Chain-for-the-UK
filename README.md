@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-- [Data Analysis](#data-analysis)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
 - [Findings](#findings)
 
 ### Project Overview
