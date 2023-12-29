@@ -104,7 +104,7 @@ As this was a data management project designed to extract a few insights, no rec
 
 ### Limitations
 
-Despite all the datasets sourced from the Open Food Facts Database, the accuracy of the analysis is inherently bound to the best of DataCamp's ability to have provided the data.
+Despite all the datasets being sourced from the Open Food Facts Database, the accuracy of the analysis is inherently bound to the best of DataCamp's ability to have provided the data.
 
 
 ### References
