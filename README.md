@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://github.com/OzzyGoylusun/Python.Data-Management-in-Avocado-Supply-Chain/blob/main/Visuals/Avocados.jpeg"
- alt="Alfred Nobel">
+ alt="Avocados" width="650">
 </p>
 
 This data management project in **Python** is intended to conduct a supply chain analysis of *three key ingredients* required in the making of **a high-quality avocado toast**, namely:
