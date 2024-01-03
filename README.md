@@ -1,5 +1,8 @@
 # Data Management and Analysis in Avocado Supply Chain for the United Kingdom
 
+## Medium Article Published
+- [Interesting Pandas String Data Manipulation Technique with 4 Simple Steps](https://medium.com/@goylusun/interesting-pandas-string-data-manipulation-technique-with-4-simple-steps-5e66c6d0c3ce)
+
 ## Table of Contents
 
 - [Exploratory Data Analysis](#exploratory-data-analysis)
