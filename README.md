@@ -22,7 +22,7 @@ This data management project in **Python** is intended to conduct a supply chain
 - Avocado
 - Olive Oil
 - Sourdough
-  
+
 The fundamental goal of this type of a data management work is to highlight some aspects of the complex supply chain taking part in producing a simple and single dish.
 
 ### Data Sources
